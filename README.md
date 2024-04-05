@@ -1,6 +1,5 @@
 # Cricket-.com
 This my cricket game play and enjoy 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
